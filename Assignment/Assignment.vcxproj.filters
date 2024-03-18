@@ -21,8 +21,5 @@
     <ClCompile Include="Ticket.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Schedule.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>
